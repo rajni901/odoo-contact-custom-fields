@@ -1,5 +1,5 @@
 {
-    'name': 'Custom Fields For Contact',
+    'name': 'TR Custom Fields For Contact',
     'version': '1.0.0',
     'summary': 'Add and manage custom fields in the Contact form without any coding',
     'description': '''
