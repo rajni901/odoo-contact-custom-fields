@@ -60,7 +60,7 @@ Installation
     'installable': True,
     'application': True,
     'license': 'OPL-1',
-    'price': 29.00,
+    'price': 5.00,
     'currency': 'USD',
     'support': 'magentodeveloper1993@gmail.com',
 }
