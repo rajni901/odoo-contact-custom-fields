@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <menuitem id="menu_contact_custom_fields_root"
+              name="Custom Contact Fields"
+              sequence="101"/>
+
+    <menuitem id="menu_contact_custom_fields_manage"
+              name="Manage Fields"
+              parent="menu_contact_custom_fields_root"
+              action="action_custom_contact_field"
+              sequence="10"/>
+
+</odoo>
