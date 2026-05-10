@@ -1,3 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_custom_contact_field_admin,access.custom.contact.field.admin,model_custom_contact_field,base.group_system,1,1,1,1
-access_custom_contact_field_user,access.custom.contact.field.user,model_custom_contact_field,base.group_user,1,0,0,0
