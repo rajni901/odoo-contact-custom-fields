@@ -47,8 +47,8 @@ Installation
 4. Click "Add to Contact Form"
 5. Open any Contact — your field appears under "Custom Fields" tab
     ''',
-    'author': 'Technical Rajni',
-    'website': 'https://www.technicalrajni.com',
+    'author': 'Vayu Sharma',
+    'website': '',
     'category': 'Contacts',
     'depends': ['contacts'],
     'images': ['static/description/banner.png'],
